@@ -1,2 +1,2 @@
-# terrafrm
-Hands On Terraform 
+# terraform
+Hands On Terraform. 
